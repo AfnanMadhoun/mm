@@ -1,0 +1,49 @@
+body {
+    border: 0px;
+    margin: 0px;
+    background: silver;
+}
+html {
+    border: 0px;
+    margin: 0px;
+
+}
+.right{
+    flex: 10px;
+    margin: 10px;
+}
+.left{
+    flex: 100px;
+    margin-left: 100px;
+    border-block-start: 5px;
+}
+.nav_bar{
+    background: red;
+    display: flex;
+}
+.content{
+    display: inline;
+    padding:10px;
+   
+
+    border: 10px;
+    margin: 10px;
+
+}
+.search{
+    /* padding:10px; */
+    border: 10px;
+    margin: 10px;
+}
+
+.main{
+    background-image: url('md.jpg');
+}
+.md{
+    height: 600px;
+    font-size: 60px;
+    text-align: center;
+    margin-top: 220px;
+    color: red;
+    
+}
